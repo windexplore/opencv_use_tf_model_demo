@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ssd.dir/main.cpp.o  -o ssd   -L/usr/local/opencv4/lib  -Wl,-rpath,/usr/local/opencv4/lib -lopencv_calib3d -lopencv_core -lopencv_dnn -lopencv_features2d -lopencv_flann -lopencv_highgui -lopencv_imgcodecs -lopencv_imgproc -lopencv_ml -lopencv_objdetect -lopencv_photo -lopencv_stitching -lopencv_videoio -lopencv_video 
